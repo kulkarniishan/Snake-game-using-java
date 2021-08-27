@@ -1,1 +1,1 @@
-# Snake-game-using-java
+# Snake game using java
