@@ -6,4 +6,17 @@
 <p> The detailed explanation of the project is attached in the ppt </p>
 <hr>
 <p>While using this program kindly change the connector name and the database name in the code</p>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-authors-a-name--authorsa)
 
+## :pencil2: Authors 
+
+- [Anurag Ghosh](https://www.linkedin.com/in/kulkarniishan)
+- [Ishan Kulkarni](https://www.linkedin.com/in/anurag-g-a01531198)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-built-using-a-name--built_usinga)
+## :brain: Contribution over Time 
+<div align="center">
+ <a href="https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=kulkarniishan/Snake-game-using-java">
+  <img src="https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=kulkarniishan/Snake-game-using-java" alt="Contribution image"/>
+ </a>
+</div>
